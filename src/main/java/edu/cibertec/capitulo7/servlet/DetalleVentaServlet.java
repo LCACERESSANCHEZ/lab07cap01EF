@@ -210,7 +210,7 @@ public class DetalleVentaServlet extends HttpServlet {
             for (String ix : id) {
                 Integer x = Integer.parseInt(ix);
 
-                if (x != null) {
+                if (x != null){
                     list.add(x);
                 } else {
                     list = null;
