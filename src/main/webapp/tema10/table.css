@@ -1,0 +1,73 @@
+table.navy {
+    font-family: Tahoma,Verdana,Arial;
+    font-size: 1em;
+    color: #444;
+    width: 100%;
+    border-left: 1px solid #0c4163;
+    border-right: 1px solid #0c4163;
+    border-bottom: 1px solid #0c4163;
+    border-collapse: collapse;
+}
+
+table.navy caption {
+    color: #f4f7f9;
+    background-image: url("images/pi_cap.gif");
+    text-align: left;
+    vertical-align: middle;
+    font-weight: bold;
+    border-top: 1px solid #0c4163;
+    border-right: 1px solid #0c4163;
+    border-left: 1px solid #0c4163;
+    padding: 9px 7px;
+}
+
+table.navy td, table.navy th {
+    border: 1px solid #5284a4;
+    padding: 6px 10px;
+}
+
+table.navy thead tr td, 
+table.navy thead tr th,
+table.navy tfoot tr td,
+table.navy tfoot tr th {
+    background-image: url("images/pi_hf.gif");
+    font-weight: bold;
+    padding: 3px 10px;
+}
+
+table.navy tbody tr:hover {
+    background-color: #5284a4;
+    color: #f4f7f9;
+}
+
+table.navy tr:nth-of-type(odd) {
+    background-color: #f4f7f9;
+}
+
+table.navy tr:nth-of-type(even) {
+    background-color: #fff;
+}
+
+table.navy a img {
+    border: none;
+}
+
+table.navy select {
+    font-size: .9em;
+    border-style: ridge; 
+    border-width: 1px; 
+    /*
+    overflow: hidden;
+    background: url("images/pi_???.gif") no-repeat right #ddd;
+    */
+}
+
+#pi_cap_tit {
+    float: left;
+}
+
+#pi_cap_pag {
+    font-size: .9em;
+    font-weight: normal;
+    float: right;
+}

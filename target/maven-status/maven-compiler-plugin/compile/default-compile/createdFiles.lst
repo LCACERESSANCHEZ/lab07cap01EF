@@ -1,0 +1,13 @@
+edu\cibertec\capitulo7\dao\DetalleVentaDAO.class
+edu\cibertec\capitulo7\servlet\VentaServlet.class
+edu\cibertec\capitulo7\dao\VentaDAO.class
+edu\cibertec\capitulo7\dto\DetalleVenta.class
+edu\cibertec\capitulo7\dao\impl\ProductoDAOImpl.class
+edu\cibertec\capitulo7\dto\Venta.class
+edu\cibertec\capitulo7\dao\impl\DetalleVentaDAOImpl.class
+edu\cibertec\capitulo7\dto\Producto.class
+edu\cibertec\capitulo7\dao\impl\VentaDAOImpl.class
+edu\cibertec\capitulo7\dao\ProductoDAO.class
+edu\cibertec\capitulo7\dao\SqlConecta.class
+edu\cibertec\capitulo7\servlet\ProductoServlet.class
+edu\cibertec\capitulo7\servlet\DetalleVentaServlet.class
